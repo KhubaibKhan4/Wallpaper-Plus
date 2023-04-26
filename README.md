@@ -1,5 +1,6 @@
 # Wallpaper-Plus
 Wallpaper Plus  App
+<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013613.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013623.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013710.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013722.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013729.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013805.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013816.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013827.png" width="20%" height="20%"/> <img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013839.png" width="20%" height="20%"/>
 <h2>Introduction</h2>
   <p>When it comes to contributing to a GitHub project, providing a well-structured and informative ReadMe file is crucial. In this article, we will explore the process of creating a ReadMe file for your GitHub contribution to the "Wallpaper Plus" project using Android (Java) and the Pixels API.</p>
   
@@ -63,12 +64,5 @@ Wallpaper Plus  App
     <p>Yes, the ReadMe file provides information on how to join the project's community, including links to relevant forums, chat platforms, or social media groups.</p>
   </li>
 </ol>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013613.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013623.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013710.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013722.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013729.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013805.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013816.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013827.png" width="50%" height="50%"/>
-<img src="https://github.com/KhubaibKhan4/Wallpaper-Plus/blob/master/Screenshot_20230427_013839.png" width="50%" height="50%"/>
+
+
