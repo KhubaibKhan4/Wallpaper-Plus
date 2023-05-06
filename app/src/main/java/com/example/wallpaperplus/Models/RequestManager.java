@@ -82,7 +82,7 @@ public class RequestManager implements Serializable {
     public interface CuratedApi {
         @Headers({
                 "Accept: application/json",
-                "Authorization: Your Api Key"
+                "Authorization: psWUxJSiSZbvIQh0qDy6CcKDS4dsBl7fs3L0dzjcxSxe4kYSxAltOS0I"
         })
         @GET("curated")
         Call<CuratedApiResponse> getWallpaper(
@@ -95,7 +95,7 @@ public class RequestManager implements Serializable {
     public interface SearchApi {
         @Headers({
                 "Accept: application/json",
-                "Authorization: Your Api Key"
+                "Authorization: psWUxJSiSZbvIQh0qDy6CcKDS4dsBl7fs3L0dzjcxSxe4kYSxAltOS0I"
         })
         @GET("search")
         Call<SearchApiResponse> getWallpaper(

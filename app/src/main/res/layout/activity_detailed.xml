@@ -15,10 +15,10 @@
         android:scaleType="centerCrop" />
 
     <ImageView
+        android:id="@+id/btnBackPress"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_margin="15dp"
-        android:id="@+id/btnBackPress"
         android:src="@drawable/baseline_arrow_back_ios_24" />
 
     <Button
@@ -37,7 +37,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="50dp"
+        android:layout_marginBottom="90dp"
         android:background="#3F000000"
         android:padding="8dp"
         android:text="Set Wallpaper"
@@ -60,5 +60,16 @@
     <!--        android:src="@drawable/ic_wallpaper"-->
     <!--        android:layout_alignParentBottom="true"-->
     <!--        android:layout_margin="16dp"/>-->
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adViewD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        app:adUnitId="@string/admob_banner_id">
+
+    </com.google.android.gms.ads.AdView>
 
 </RelativeLayout>
