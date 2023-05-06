@@ -65,5 +65,7 @@ Wallpaper Plus  App
     <p>Yes, the ReadMe file provides information on how to join the project's community, including links to relevant forums, chat platforms, or social media groups.</p>
   </li>
 </ol>
+ <h2>Latest Update</h2>
+ <h3>Admob Ads Integrated</h3>
 
 
